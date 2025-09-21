@@ -4,10 +4,6 @@
 
 Hello, I'm Sussy. Currently, I'm studying at University of Information Technology - VNUHCM and i'm on the journey to become a software engineer. It's a challenging journey but i'm on my way🎶
 
-#
-
-
-<br/>
 
 #
 
