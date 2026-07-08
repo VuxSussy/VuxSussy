@@ -1,4 +1,4 @@
-# 💫SussySuspector
+# 💫Sussy
 
 **`Aim to become a software engineer(Student/idk just student)`**
 
