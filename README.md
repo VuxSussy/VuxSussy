@@ -24,22 +24,5 @@ Hello, I'm Sussy. Currently, I'm studying at University of Information Technolog
           
 </p>
 
-#
-
-### 📊 Stats
-<div align="center">
-
-  ![Sussy's GitHub stats](https://github-readme-stats.vercel.app/api?username=sussysuspector&show_icons=true&theme=gruvbox)  
-
-</div>
-
-#
-<br/>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SussySuspector/SussySuspector/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SussySuspector/SussySuspector/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/SussySuspector/SussySuspector/output/pacman-contribution-graph.svg">
-</picture>
-
 
 
