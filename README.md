@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="./assets/blender-project.jpg" alt="My recent Blender project - a haunted rune gate in a graveyard" width="100%"/>
+<img src="./assets/blender-project.jpg" alt="My recent Blender project" width="100%"/>
 
-<sub>🎨 <i>My recent Blender project — a haunted rune gate in a graveyard</i></sub>
+<sub>🎨 <i>My recent Blender project</i></sub>
 
 <br/><br/>
 
@@ -28,32 +28,29 @@
 struct Sussy {
     std::string school   = "University of Information Technology - VNUHCM";
     std::string role     = "Student (idk, just student)";
-    std::string goal     = "Become a Software Engineer";
-    std::string hobby    = "Making 3D scenes in Blender";
+    std::string goal     = "Become a Software Engineer, AI Engineer; Pursue a Master's degree in Computer Science";
+    std::string hobby    = "Vibe coding (meh i hate this hobby), playing video games";
     std::string os       = "macOS";
 };
 ```
 
 - 🎓 Currently studying at **University of Information Technology - VNUHCM**
-- 🚀 On the journey to become a **software engineer** — it's a challenging journey, but I'm on my way 🎶
+- 🚀 On the journey to become a **better Sussy** — it's a challenging journey, but I'm on my way 🎶
 - 🎨 In my free time I build **3D scenes in Blender** (see the banner above!)
-- 🍎 Recently switched to **macOS**
+- 🍎 Switched to **macOS** (Used to use Arch btw)
 
-## 🛠️ Languages & Tools
+## 🛠️ Things I Use
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,python,apple,blender,git&theme=dark" alt="Languages and tools"/>
+    <img src="https://skillicons.dev/icons?i=cpp,python,apple,blender,git,discord&theme=dark" alt="Things I Use"/>
+    <img src="https://img.shields.io/badge/Roblox-000000?style=for-the-badge&logo=roblox&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Roblox%20Studio-00A2FF?style=for-the-badge&logo=robloxstudio&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Luau-2C2D72?style=for-the-badge&logo=lua&logoColor=white"/>
   </a>
 </p>
 
-## 🎨 Blender Corner
-
-| Project | Description |
-| :-- | :-- |
-| 🪦 **Rune Gate** | A graveyard scene with a horned-skull stone arch, glowing runes and a half-open wooden door spilling warm light. |
-
-## 👾 Contribution Graph
+## 👾 VuxSussy's Activities
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/VuxSussy/VuxSussy/output/pacman-contribution-graph-dark.svg">
