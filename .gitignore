@@ -1,0 +1,5 @@
+# AI agent files - keep out of the repo
+.agent/
+.agents/
+*.agent
+*.agent.md
