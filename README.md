@@ -9,7 +9,7 @@
 # 💫 Hi, I'm Sussy
 
 <a href="https://github.com/VuxSussy">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=F7A35C&center=true&vCenter=true&width=520&lines=Student+%40+UIT+-+VNUHCM;Aspiring+Software+Engineer;Blender+%26+3D+enthusiast;Arch+Linux+user+btw" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=F7A35C&center=true&vCenter=true&width=520&lines=Student+%40+UIT+-+VNUHCM;Aspiring+Software+Engineer;Blender+%26+3D+enthusiast;Now+on+macOS" alt="Typing SVG"/>
 </a>
 
 <p>
@@ -30,20 +30,20 @@ struct Sussy {
     std::string role     = "Student (idk, just student)";
     std::string goal     = "Become a Software Engineer";
     std::string hobby    = "Making 3D scenes in Blender";
-    std::string os       = "Arch Linux";
+    std::string os       = "macOS";
 };
 ```
 
 - 🎓 Currently studying at **University of Information Technology - VNUHCM**
 - 🚀 On the journey to become a **software engineer** — it's a challenging journey, but I'm on my way 🎶
 - 🎨 In my free time I build **3D scenes in Blender** (see the banner above!)
-- 🐧 Daily driving **Arch Linux**
+- 🍎 Recently switched to **macOS**
 
 ## 🛠️ Languages & Tools
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,python,arch,linux,blender,git&theme=dark" alt="Languages and tools"/>
+    <img src="https://skillicons.dev/icons?i=cpp,python,apple,blender,git&theme=dark" alt="Languages and tools"/>
   </a>
 </p>
 
@@ -52,6 +52,14 @@ struct Sussy {
 | Project | Description |
 | :-- | :-- |
 | 🪦 **Rune Gate** | A graveyard scene with a horned-skull stone arch, glowing runes and a half-open wooden door spilling warm light. |
+
+## 👾 Contribution Graph
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/VuxSussy/VuxSussy/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/VuxSussy/VuxSussy/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/VuxSussy/VuxSussy/output/pacman-contribution-graph.svg">
+</picture>
 
 <div align="center">
 
