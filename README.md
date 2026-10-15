@@ -24,20 +24,39 @@
 
 ## 🧑‍💻 About me
 
-```cpp
-struct Sussy {
-    std::string school   = "University of Information Technology - VNUHCM";
-    std::string role     = "Student (idk, just student)";
-    std::string goal     = "Become a Software Engineer";
-    std::string hobby    = "Making 3D scenes in Blender";
-    std::string os       = "macOS";
-};
+<table>
+<tr>
+<td width="35%" align="center">
+  <img src="./assets/uit-logo.png" alt="UIT logo" width="220"/>
+</td>
+<td>
+
+```text
+sussy@uit ~ $ fastfetch
+──────────────── About ────────────────
+ User     : Sussy
+ School   : UIT - VNUHCM
+ Role     : Student (idk, just student)
+ Goal     : Software Engineer 🚀
+ Hobby    : 3D scenes in Blender 🎨
+ Langs    : C++, Python
+─────────────── Hardware ──────────────
+ PC       : MacBook Pro M4
+ CPU      : Apple M4 (4+6)
+ GPU      : Apple M4 (10) [Integrated]
+ Memory   : 24 GiB
+─────────────── Software ──────────────
+ OS       : macOS 🍎 arm64
+ Shell    : zsh 5.9
+ Terminal : kitty
+ WM       : Quartz + Rectangle
+──────────── Uptime / Status ──────────
+ Uptime   : still on the journey 🎶
 ```
 
-- 🎓 Currently studying at **University of Information Technology - VNUHCM**
-- 🚀 On the journey to become a **software engineer** — it's a challenging journey, but I'm on my way 🎶
-- 🎨 In my free time I build **3D scenes in Blender** (see the banner above!)
-- 🍎 Recently switched to **macOS**
+</td>
+</tr>
+</table>
 
 ## 🛠️ Languages & Tools
 
