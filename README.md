@@ -33,7 +33,6 @@ struct Sussy {
     std::string os       = "macOS";
 };
 ```
-<br/>
 - 🎓 Currently studying at **University of Information Technology - VNUHCM**
 - 🚀 On the journey to become a **better Sussy** — it's a challenging journey, but I'm on my way 🎶
 - 🎨 In my free time I build **3D scenes in Blender** (see the banner above!)
