@@ -4,7 +4,7 @@
 
 <sub>🎨 <i>My recent Blender project</i></sub>
 
-<br/><br/>
+<br/>
 
 # 💫 Hi, I'm Sussy
 
@@ -33,20 +33,19 @@ struct Sussy {
     std::string os       = "macOS";
 };
 ```
-
+<br/>
 - 🎓 Currently studying at **University of Information Technology - VNUHCM**
 - 🚀 On the journey to become a **better Sussy** — it's a challenging journey, but I'm on my way 🎶
 - 🎨 In my free time I build **3D scenes in Blender** (see the banner above!)
 - 🍎 Switched to **macOS** (Used to use Arch btw)
+
+<br/>
 
 ## 🛠️ Things I Use
 
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=cpp,python,apple,blender,git,discord&theme=dark" alt="Things I Use"/>
-    <img src="https://img.shields.io/badge/Roblox-000000?style=for-the-badge&logo=roblox&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Roblox%20Studio-00A2FF?style=for-the-badge&logo=robloxstudio&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Luau-2C2D72?style=for-the-badge&logo=lua&logoColor=white"/>
   </a>
 </p>
 
