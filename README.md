@@ -48,16 +48,6 @@ struct Sussy {
   </a>
 </p>
 
-## 🎮 Projects
-
-<div align="center">
-  <img src="./assets/the-gate-beneath.jpg" alt="The Gate Beneath" width="100%"/>
-</div>
-
-| Project | Status | Description |
-| :-- | :-- | :-- |
-| 🚪 **The Gate Beneath** | 🚧 Unreleased yet | A dark fantasy Roblox adventure — a lone wanderer stands before a giant gate, with light spilling through the crack. What lies beneath? |
-
 ## 👾 VuxSussy's Activities
 
 <picture>
